@@ -1,0 +1,278 @@
+======================================================================
+PERFORMANCE AGENT ANALYSIS REPORT
+Generated: 2025-12-27 15:45
+======================================================================
+
+## 🇯🇵 @laneige_jp (Japan) Performance Analysis
+
+Account: LANEIGE Japan 公式
+Followers: 185,000
+Posts Analyzed: 6
+
+----------------------------------------------------------------------
+### KEY FINDINGS
+----------------------------------------------------------------------
+
+📊 Average Engagement Rate: 8.72%
+
+🏆 Best Performing Content Type:
+   제품 질감샷 (Product Texture Shot)
+   Average Engagement: 10.65%
+
+📉 Lowest Performing Content Type:
+   제품 모델 단체샷 (Multi-Model Group Shot)
+   Average Engagement: 6.99%
+
+🎯 Content Preference: Product-Focused 📦
+   Preference Strength: 3.36% difference
+
+----------------------------------------------------------------------
+### ENGAGEMENT BY CONTENT TYPE
+----------------------------------------------------------------------
+
+Content Type                          Engagement     Rank
+-------------------------------------------------------
+🥇 제품 질감샷                                10.65%      1
+🥈 제품 단체샷                                10.22%      2
+🥉 제품없는 모델샷                               7.22%      3
+   제품 및 모델샷                               7.01%      4
+   제품 모델 단체샷                              6.99%      5
+
+----------------------------------------------------------------------
+### INDIVIDUAL POST ANALYSIS
+----------------------------------------------------------------------
+
+Post #1 (Rank by Engagement)
+   File: 2__제품_단독샷.jpg
+   Content Type: 제품 단체샷
+
+   📈 Metrics:
+      Likes: 4,521
+      Comments: 89
+      Saves: 892
+      Shares: 45
+      Reach: 52,000
+      Engagement Rate: 10.67%
+      Conversion Score: 4.8/10
+
+   🖼️ Visual Analysis:
+      Human Presence: No
+      Product Visibility: hero_shot
+      Composition: minimal
+      Mood: clean_luxurious
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 7
+      Emojis: 2
+      Has CTA: No
+      Tone: informative
+
+   💬 Comment Analysis:
+      Total Comments: 8
+      Sentiment: 😐 50% positive
+      Purchase Intent: 2 comments
+      Questions: 3 comments
+      Top Topics: skin, purchase_intent, texture
+
+----------------------------------------
+
+Post #2 (Rank by Engagement)
+   File: 3__제품_질감샷.jpg
+   Content Type: 제품 질감샷
+
+   📈 Metrics:
+      Likes: 5,102
+      Comments: 124
+      Saves: 1,203
+      Shares: 67
+      Reach: 61,000
+      Engagement Rate: 10.65%
+      Conversion Score: 4.9/10
+
+   🖼️ Visual Analysis:
+      Human Presence: No
+      Product Visibility: detail_shot
+      Composition: minimal
+      Mood: clean_luxurious
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 6
+      Emojis: 1
+      Has CTA: No
+      Tone: informative
+
+   💬 Comment Analysis:
+      Total Comments: 9
+      Sentiment: 😊 89% positive
+      Purchase Intent: 1 comments
+      Questions: 1 comments
+      Top Topics: texture, moisturizing, non-sticky
+
+----------------------------------------
+
+Post #3 (Rank by Engagement)
+   File: 1__제품_단체샷.jpg
+   Content Type: 제품 단체샷
+
+   📈 Metrics:
+      Likes: 3,892
+      Comments: 203
+      Saves: 567
+      Shares: 34
+      Reach: 48,000
+      Engagement Rate: 9.78%
+      Conversion Score: 3.2/10
+
+   🖼️ Visual Analysis:
+      Human Presence: No
+      Product Visibility: hero_shot
+      Composition: minimal
+      Mood: clean_luxurious
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 5
+      Emojis: 5
+      Has CTA: Yes
+      Tone: engaging
+
+   💬 Comment Analysis:
+      Total Comments: 10
+      Sentiment: 😟 20% positive
+      Purchase Intent: 1 comments
+      Questions: 1 comments
+      Top Topics: skin, purchase_intent
+
+----------------------------------------
+
+Post #4 (Rank by Engagement)
+   File: 5__제품없는_모델샷.jpg
+   Content Type: 제품없는 모델샷
+
+   📈 Metrics:
+      Likes: 1,876
+      Comments: 45
+      Saves: 156
+      Shares: 18
+      Reach: 29,000
+      Engagement Rate: 7.22%
+      Conversion Score: 1.5/10
+
+   🖼️ Visual Analysis:
+      Human Presence: Yes
+      Product Visibility: not_visible
+      Composition: minimal
+      Mood: clean_luxurious
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 5
+      Emojis: 1
+      Has CTA: No
+      Tone: aspirational
+
+   💬 Comment Analysis:
+      Total Comments: 4
+      Sentiment: 😊 85% positive
+      Purchase Intent: 0 comments
+      Questions: 3 comments
+      Top Topics: skin care, product inquiry, routine
+
+----------------------------------------
+
+Post #5 (Rank by Engagement)
+   File: 4__제품_및_모델샷.jpg
+   Content Type: 제품 및 모델샷
+
+   📈 Metrics:
+      Likes: 2,341
+      Comments: 67
+      Saves: 234
+      Shares: 23
+      Reach: 38,000
+      Engagement Rate: 7.01%
+      Conversion Score: 2.9/10
+
+   🖼️ Visual Analysis:
+      Human Presence: Yes
+      Product Visibility: held_by_model
+      Composition: minimal
+      Mood: clean_luxurious
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 6
+      Emojis: 2
+      Has CTA: No
+      Tone: informative
+
+   💬 Comment Analysis:
+      Total Comments: 5
+      Sentiment: 😊 70% positive
+      Purchase Intent: 2 comments
+      Questions: 2 comments
+      Top Topics: skin quality, model identity, product effectiveness
+
+----------------------------------------
+
+Post #6 (Rank by Engagement)
+   File: 6__제품_모델_단체샷.jpg
+   Content Type: 제품 모델 단체샷
+
+   📈 Metrics:
+      Likes: 1,987
+      Comments: 52
+      Saves: 178
+      Shares: 21
+      Reach: 32,000
+      Engagement Rate: 6.99%
+      Conversion Score: 1.6/10
+
+   🖼️ Visual Analysis:
+      Human Presence: Yes
+      Product Visibility: held_by_model
+      Composition: moderate
+      Mood: inclusive_joyful
+
+   📝 Caption Analysis:
+      Language: JA
+      Hashtags: 5
+      Emojis: 2
+      Has CTA: No
+      Tone: aspirational
+
+   💬 Comment Analysis:
+      Total Comments: 5
+      Sentiment: 😐 40% positive
+      Purchase Intent: 0 comments
+      Questions: 0 comments
+      Top Topics: skin
+
+----------------------------------------
+
+----------------------------------------------------------------------
+### RECOMMENDATIONS
+----------------------------------------------------------------------
+
+💡 제품 중심 콘텐츠 권장. 제품 질감샷 형식이 가장 효과적 (평균 10.65% engagement)
+
+Based on the analysis, we recommend:
+
+   1. Prioritize product-focused imagery
+      - Hero shots showing product details
+      - Texture close-ups that highlight product quality
+      - Clean, minimal backgrounds
+
+   2. When using models, keep focus on the product
+      - Product should be prominently visible
+      - Avoid lifestyle shots where product is secondary
+
+   3. Model content after top performer:
+      - 2__제품_단독샷.jpg
+      - Achieved 10.67% engagement
+
+======================================================================
+END OF REPORT
+======================================================================

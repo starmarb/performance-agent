@@ -1,0 +1,194 @@
+{
+  "account": {
+    "ig_user_id": "17841400023456789",
+    "username": "laneigethailand",
+    "name": "LANEIGE Thailand",
+    "followers_count": 245000,
+    "media_count": 1203,
+    "profile_picture_url": "https://scontent.cdninstagram.com/v/profile_laneigethailand.jpg"
+  },
+
+  "media": [
+    {
+      "id": "17895695668005551",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th001_product_model.jpg",
+      "local_file": "4__제품_및_모델샷.jpg",
+      "caption": "ผิวฉ่ำวาวตลอดคืน ✨\n\nตื่นมาผิวนุ่มชุ่มชื้น เด้งเหมือนเจลลี่!\nเคล็ดลับง่ายๆ แค่ทา Water Sleeping Mask ก่อนนอน 💙\n\n#LANEIGE #WaterSleepingMask #ผิวฉ่ำวาว #สกินแคร์ #KBeauty #ผิวสวย",
+      "timestamp": "2024-12-15T18:00:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI001/",
+      "like_count": 5678,
+      "comments_count": 234,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 98000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 72000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 1456}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 189}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c101", "text": "ผิวสวยมากค่ะ 😍 อยากได้ผิวแบบนี้", "timestamp": "2024-12-15T18:10:00+0000", "username": "skincare_th_lover"},
+          {"id": "c102", "text": "ซื้อที่ไหนคะ อยากได้!", "timestamp": "2024-12-15T18:15:00+0000", "username": "beauty_shopper_bkk"},
+          {"id": "c103", "text": "ใช้ทุกวันได้มั้ยคะ?", "timestamp": "2024-12-15T18:20:00+0000", "username": "daily_skincare_th"},
+          {"id": "c104", "text": "ผิวเด้งมากกกก ✨", "timestamp": "2024-12-15T18:30:00+0000", "username": "glowy_girl_th"},
+          {"id": "c105", "text": "สั่งแล้วค่ะ รอของมา!", "timestamp": "2024-12-15T18:45:00+0000", "username": "ordered_already"},
+          {"id": "c106", "text": "ราคาเท่าไหร่คะ?", "timestamp": "2024-12-15T19:00:00+0000", "username": "price_checker"},
+          {"id": "c107", "text": "ผิวแพ้ง่ายใช้ได้มั้ยคะ", "timestamp": "2024-12-15T19:15:00+0000", "username": "sensitive_skin_th"},
+          {"id": "c108", "text": "รีวิวหน่อยค่ะ ใครใช้แล้วบ้าง", "timestamp": "2024-12-15T19:30:00+0000", "username": "review_seeker"},
+          {"id": "c109", "text": "น่ารักมากเลยค่ะ 💙", "timestamp": "2024-12-15T20:00:00+0000", "username": "cute_comment_th"},
+          {"id": "c110", "text": "ต้องลอง!", "timestamp": "2024-12-15T20:30:00+0000", "username": "must_try_th"}
+        ]
+      }
+    },
+    {
+      "id": "17895695668005552",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th002_model_only.jpg",
+      "local_file": "5__제품없는_모델샷.jpg",
+      "caption": "ขั้นตอนสุดท้ายก่อนนอน 🌙\n\nมาส์กแล้วตื่นมาผิวปัง!\nเนื้อเจลบางเบา ซึมไว ไม่เหนียวเหนอะหนะ\n\n#LANEIGE #SleepingMask #NightRoutine #GlowySkin #สกินแคร์เกาหลี",
+      "timestamp": "2024-12-12T19:00:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI002/",
+      "like_count": 4892,
+      "comments_count": 198,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 89000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 65000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 1123}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 156}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c111", "text": "ผิวเด้งมากค่ะ 🥺", "timestamp": "2024-12-12T19:10:00+0000", "username": "bouncy_skin_fan"},
+          {"id": "c112", "text": "สอนหน่อยค่ะ ทำยังไง", "timestamp": "2024-12-12T19:20:00+0000", "username": "tutorial_request_th"},
+          {"id": "c113", "text": "ต้องลอง! ผิวสวยจัง", "timestamp": "2024-12-12T19:30:00+0000", "username": "try_it_th"},
+          {"id": "c114", "text": "ใช้คู่กับอะไรดีคะ", "timestamp": "2024-12-12T19:45:00+0000", "username": "combo_question"},
+          {"id": "c115", "text": "ผิวใสมาก ✨", "timestamp": "2024-12-12T20:00:00+0000", "username": "clear_skin_lover"},
+          {"id": "c116", "text": "อยากได้ผิวแบบนี้จังเลย", "timestamp": "2024-12-12T20:15:00+0000", "username": "skin_goal_th"},
+          {"id": "c117", "text": "ดีจริงมั้ยคะ รีวิวหน่อย", "timestamp": "2024-12-12T20:30:00+0000", "username": "honest_review_th"},
+          {"id": "c118", "text": "น่ารักมากเลย 💕", "timestamp": "2024-12-12T21:00:00+0000", "username": "cute_fan_th"}
+        ]
+      }
+    },
+    {
+      "id": "17895695668005553",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th003_product_models_group.jpg",
+      "local_file": "6__제품_모델_단체샷.jpg",
+      "caption": "เลือกตัวที่ใช่สำหรับคุณ 🩷💙💚\n\n🩷 Bouncy & Firm: ผิวกระชับ เด้ง\n💙 Water: เติมน้ำให้ผิว ชุ่มชื้น\n💚 Cica: ผิวแพ้ง่าย ต้องตัวนี้\n\nครบทุกปัญหาผิว!\n\n#LANEIGE #SleepingMaskCollection #SkincareGoals #ผิวสวยครบสูตร",
+      "timestamp": "2024-12-18T17:00:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI003/",
+      "like_count": 6234,
+      "comments_count": 312,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 112000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 81000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 1678}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 234}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c119", "text": "ชอบความหลากหลาย! สวยทุกคน", "timestamp": "2024-12-18T17:10:00+0000", "username": "diversity_love_th"},
+          {"id": "c120", "text": "อยากได้หมดเลยค่ะ 😭", "timestamp": "2024-12-18T17:15:00+0000", "username": "want_all_th"},
+          {"id": "c121", "text": "สีฟ้าดีมากค่ะ ใช้ประจำ", "timestamp": "2024-12-18T17:20:00+0000", "username": "blue_user_th"},
+          {"id": "c122", "text": "ซื้อเซ็ตคุ้มกว่ามั้ยคะ", "timestamp": "2024-12-18T17:30:00+0000", "username": "set_buyer_th"},
+          {"id": "c123", "text": "ผิวแพ้ง่าย ใช้สีเขียวดีมากเลย", "timestamp": "2024-12-18T17:45:00+0000", "username": "cica_lover_th"},
+          {"id": "c124", "text": "ภาพสวยมากก 📸", "timestamp": "2024-12-18T18:00:00+0000", "username": "photo_lover_th"},
+          {"id": "c125", "text": "ต้องมีครบ 3 สี!", "timestamp": "2024-12-18T18:15:00+0000", "username": "collector_th"},
+          {"id": "c126", "text": "รักความ inclusive ค่ะ 🌈", "timestamp": "2024-12-18T18:30:00+0000", "username": "inclusive_fan"},
+          {"id": "c127", "text": "แนะนำสีไหนสำหรับผิวมัน", "timestamp": "2024-12-18T19:00:00+0000", "username": "oily_skin_th"},
+          {"id": "c128", "text": "สั่งสีฟ้ากับเขียวแล้วค่ะ!", "timestamp": "2024-12-18T19:30:00+0000", "username": "double_buyer"}
+        ]
+      }
+    },
+    {
+      "id": "17895695668005554",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th004_product_solo.jpg",
+      "local_file": "2__제품_단독샷.jpg",
+      "caption": "Water Sleeping Mask 💙\n\nไอเทมที่ขาดไม่ได้!\nเติมความชุ่มชื้นให้ผิวตลอดคืน\n\n#LANEIGE #WaterSleepingMask #MustHave #Hydration",
+      "timestamp": "2024-12-08T18:30:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI004/",
+      "like_count": 2345,
+      "comments_count": 78,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 52000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 38000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 456}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 45}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c129", "text": "ราคาเท่าไหร่คะ", "timestamp": "2024-12-08T18:45:00+0000", "username": "price_ask_th"},
+          {"id": "c130", "text": "ใช้ดีมากค่ะ แนะนำเลย", "timestamp": "2024-12-08T19:00:00+0000", "username": "good_review_th"},
+          {"id": "c131", "text": "มีขายที่ Shopee มั้ยคะ", "timestamp": "2024-12-08T19:15:00+0000", "username": "shopee_shopper"},
+          {"id": "c132", "text": "กลิ่นหอมมั้ยคะ", "timestamp": "2024-12-08T19:30:00+0000", "username": "scent_curious_th"},
+          {"id": "c133", "text": "ตัวนี้ขายดีจริงๆ", "timestamp": "2024-12-08T20:00:00+0000", "username": "bestseller_fan"}
+        ]
+      }
+    },
+    {
+      "id": "17895695668005555",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th005_product_texture.jpg",
+      "local_file": "3__제품_질감샷.jpg",
+      "caption": "เนื้อเจลบางเบา ซึมไว 💧\n\nไม่เหนียวเหนอะหนะ รู้สึกสบายผิวตลอดคืน\nตื่นมาผิวชุ่มชื้น ไม่แห้งตึง\n\n#LANEIGE #Texture #GelMask #Hydration #เนื้อสัมผัส",
+      "timestamp": "2024-12-05T17:00:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI005/",
+      "like_count": 2890,
+      "comments_count": 92,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 58000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 42000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 534}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 56}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c134", "text": "เนื้อสวยมากค่ะ", "timestamp": "2024-12-05T17:15:00+0000", "username": "texture_love_th"},
+          {"id": "c135", "text": "น่าใช้จัง ไม่เหนียวจริงมั้ย", "timestamp": "2024-12-05T17:30:00+0000", "username": "sticky_concern"},
+          {"id": "c136", "text": "ใช้แล้วหน้าไม่มันใช่มั้ยคะ", "timestamp": "2024-12-05T17:45:00+0000", "username": "oily_concern_th"},
+          {"id": "c137", "text": "ชอบเนื้อเจลแบบนี้", "timestamp": "2024-12-05T18:00:00+0000", "username": "gel_fan_th"},
+          {"id": "c138", "text": "ดูดีค่ะ อยากลอง", "timestamp": "2024-12-05T18:30:00+0000", "username": "want_to_try_th"}
+        ]
+      }
+    },
+    {
+      "id": "17895695668005556",
+      "media_type": "IMAGE",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-15/th006_product_group.jpg",
+      "local_file": "1__제품_단체샷.jpg",
+      "caption": "Sleeping Mask 3 สี 3 สูตร 🩷💙💚\n\nเลือกตามปัญหาผิวของคุณ\nมีครบที่ LANEIGE\n\n#LANEIGE #SleepingMask #3Colors #ครบทุกสูตร",
+      "timestamp": "2024-12-01T16:00:00+0000",
+      "permalink": "https://www.instagram.com/p/DDfThI006/",
+      "like_count": 2156,
+      "comments_count": 65,
+      "insights": {
+        "data": [
+          {"name": "impressions", "period": "lifetime", "values": [{"value": 48000}]},
+          {"name": "reach", "period": "lifetime", "values": [{"value": 35000}]},
+          {"name": "saved", "period": "lifetime", "values": [{"value": 389}]},
+          {"name": "shares", "period": "lifetime", "values": [{"value": 42}]}
+        ]
+      },
+      "comments": {
+        "data": [
+          {"id": "c139", "text": "สีสวยมากค่ะ", "timestamp": "2024-12-01T16:15:00+0000", "username": "color_lover_th"},
+          {"id": "c140", "text": "เลือกไม่ถูกเลย ชอบหมด", "timestamp": "2024-12-01T16:30:00+0000", "username": "cant_choose_th"},
+          {"id": "c141", "text": "มีขนาดเล็กมั้ยคะ อยากลองก่อน", "timestamp": "2024-12-01T16:45:00+0000", "username": "sample_seeker"},
+          {"id": "c142", "text": "ซื้อที่ไหนคะ", "timestamp": "2024-12-01T17:00:00+0000", "username": "where_to_buy_th"},
+          {"id": "c143", "text": "น่าสะสม", "timestamp": "2024-12-01T17:30:00+0000", "username": "collector_fan_th"}
+        ]
+      }
+    }
+  ]
+}

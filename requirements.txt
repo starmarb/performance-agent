@@ -1,0 +1,10 @@
+# Core dependencies
+# (No external dependencies for demo mode - uses only Python standard library)
+
+# For production mode (real Claude API):
+anthropic>=0.18.0
+
+# For Streamlit dashboard (coming soon):
+# streamlit>=1.31.0
+# pandas>=2.0.0
+# plotly>=5.18.0

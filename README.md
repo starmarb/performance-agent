@@ -1,6 +1,19 @@
 # PERFORMANCE AGENT
 
-Instagram Content Performance Analysis Agent <!-- for Amorepacific LANEIGE -->
+Instagram Content Performance Analysis Agent for Amorepacific LANEIGE
+
+## Quick Start
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/performance-agent.git
+cd performance-agent
+
+# 2. Run the agent
+python run.py
+```
+
+That's it! The agent will analyze all 3 LANEIGE accounts and output results.
 
 ## Project Structure
 
@@ -72,7 +85,7 @@ python agent.py production
 
 ## Switching from Demo to Production
 
-When the Instagram Graph API is ready, change the following line to connect to the API:
+The agent is designed so you only need to change ONE line:
 
 ```python
 # Demo mode (current)
