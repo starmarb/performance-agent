@@ -1,473 +1,5 @@
 {
   "accounts": {
-    "laneige_jp": {
-      "account": {
-        "username": "laneige_jp",
-        "name": "LANEIGE Japan 公式",
-        "followers": 185000
-      },
-      "posts": [
-        {
-          "id": "17895695668004551",
-          "media_type": "IMAGE",
-          "local_file": "2__제품_단독샷.jpg",
-          "caption": "毎晩のスキンケアに✨\n\nウォータースリーピングマスクで朝までうるおいキープ。\n寝ている間に肌をしっかり保湿💙\n\n#LANEIGE #ラネージュ #スリーピングマスク #韓国コスメ #スキンケア #保湿ケア #ナイトケア",
-          "timestamp": "2024-12-15T09:00:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI001/",
-          "metrics": {
-            "likes": 4521,
-            "comments": 89,
-            "saves": 892,
-            "shares": 45,
-            "reach": 52000,
-            "impressions": 78000
-          },
-          "analysis": {
-            "content_type": "product_group",
-            "vision": {
-              "content_type": "product_group",
-              "subject_type": "product_only",
-              "product_visibility": "hero_shot",
-              "product_count": 2,
-              "human_presence": false,
-              "face_visible": false,
-              "person_count": 0,
-              "composition_style": "minimal",
-              "background": "gradient",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "blue",
-                "white"
-              ],
-              "lighting": "studio_soft",
-              "mood": "clean_luxurious",
-              "production_quality": "professional",
-              "image_file": "2__제품_단독샷.jpg"
-            },
-            "caption": {
-              "caption_length": 109,
-              "hashtag_count": 7,
-              "hashtags": [
-                "#LANEIGE",
-                "#ラネージュ",
-                "#スリーピングマスク",
-                "#韓国コスメ",
-                "#スキンケア",
-                "#保湿ケア",
-                "#ナイトケア"
-              ],
-              "emoji_count": 2,
-              "cta_present": false,
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "aspirational"
-            },
-            "comments": {
-              "total_comments": 8,
-              "sentiment_score": 0.85,
-              "positive_ratio": 0.625,
-              "neutral_ratio": 0.375,
-              "negative_ratio": 0,
-              "top_topics": [
-                "texture",
-                "daily_use",
-                "skin_moisturizing"
-              ],
-              "purchase_intent_count": 1,
-              "questions_count": 3
-            },
-            "engagement_rate": 10.67,
-            "conversion_score": 4.4
-          }
-        },
-        {
-          "id": "17895695668004552",
-          "media_type": "IMAGE",
-          "local_file": "3__제품_질감샷.jpg",
-          "caption": "ぷるぷるジェルテクスチャー💧\n\n肌にすっと溶け込む軽やかな使い心地。\nべたつかず、朝までしっとり。\n\n#LANEIGE #ウォータースリーピングマスク #テクスチャー #ジェルクリーム #保湿 #スキンケア好き",
-          "timestamp": "2024-12-18T10:00:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI002/",
-          "metrics": {
-            "likes": 5102,
-            "comments": 124,
-            "saves": 1203,
-            "shares": 67,
-            "reach": 61000,
-            "impressions": 89000
-          },
-          "analysis": {
-            "content_type": "product_texture",
-            "vision": {
-              "content_type": "product_texture",
-              "subject_type": "product_detail",
-              "product_visibility": "detail_shot",
-              "product_count": 1,
-              "human_presence": false,
-              "face_visible": false,
-              "person_count": 0,
-              "composition_style": "minimal",
-              "background": "gradient",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "blue",
-                "white"
-              ],
-              "lighting": "studio_soft",
-              "mood": "clean_luxurious",
-              "production_quality": "professional",
-              "image_file": "3__제품_질감샷.jpg"
-            },
-            "caption": {
-              "caption_length": 84,
-              "hashtag_count": 6,
-              "hashtags": [
-                "LANEIGE",
-                "ウォータースリーピングマスク",
-                "テクスチャー",
-                "ジェルクリーム",
-                "保湿",
-                "スキンケア好き"
-              ],
-              "emoji_count": 1,
-              "cta_present": false,
-              "cta_type": "none",
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "informative"
-            },
-            "comments": {
-              "total_comments": 9,
-              "sentiment_score": 0.44,
-              "positive_ratio": 0.44,
-              "neutral_ratio": 0.56,
-              "negative_ratio": 0.0,
-              "top_topics": [
-                "texture",
-                "hydration",
-                "skin",
-                "purchase_intent"
-              ],
-              "purchase_intent_count": 1,
-              "questions_count": 1
-            },
-            "engagement_rate": 10.65,
-            "conversion_score": 4.9
-          }
-        },
-        {
-          "id": "17895695668004553",
-          "media_type": "IMAGE",
-          "local_file": "1__제품_단체샷.jpg",
-          "caption": "3つのスリーピングマスク、あなたはどれ派？🩷💙💚\n\n🩷 バウンシー＆ファーム：ハリ・弾力ケア\n💙 ウォーター：保湿ケア\n💚 シカ：鎮静ケア\n\nコメントで教えてね👇\n\n#LANEIGE #スリーピングマスク #韓国スキンケア #選べる3種 #あなたはどれ派",
-          "timestamp": "2024-12-10T11:00:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI003/",
-          "metrics": {
-            "likes": 3892,
-            "comments": 203,
-            "saves": 567,
-            "shares": 34,
-            "reach": 48000,
-            "impressions": 71000
-          },
-          "analysis": {
-            "content_type": "product_group",
-            "vision": {
-              "content_type": "product_group",
-              "subject_type": "product_only",
-              "product_visibility": "hero_shot",
-              "product_count": 3,
-              "human_presence": false,
-              "face_visible": false,
-              "person_count": 0,
-              "composition_style": "minimal",
-              "background": "gradient",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "pink",
-                "blue"
-              ],
-              "lighting": "studio_soft",
-              "mood": "clean_luxurious",
-              "production_quality": "professional",
-              "image_file": "1__제품_단체샷.jpg"
-            },
-            "caption": {
-              "caption_length": 121,
-              "hashtag_count": 5,
-              "hashtags": [
-                "LANEIGE",
-                "スリーピングマスク",
-                "韓国スキンケア",
-                "選べる3種",
-                "あなたはどれ派"
-              ],
-              "emoji_count": 8,
-              "cta_present": true,
-              "cta_type": "comment",
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "engaging"
-            },
-            "comments": {
-              "total_comments": 10,
-              "sentiment_score": 0.2,
-              "positive_ratio": 0.2,
-              "neutral_ratio": 0.8,
-              "negative_ratio": 0.0,
-              "top_topics": [
-                "skin",
-                "purchase_intent"
-              ],
-              "purchase_intent_count": 1,
-              "questions_count": 1
-            },
-            "engagement_rate": 9.78,
-            "conversion_score": 3.2
-          }
-        },
-        {
-          "id": "17895695668004554",
-          "media_type": "IMAGE",
-          "local_file": "4__제품_및_모델샷.jpg",
-          "caption": "うるツヤ肌の秘密💙\n\n寝ている間にしっかり保湿して、\n朝は透明感のある肌に✨\n\n#LANEIGE #ウォータースリーピングマスク #うるツヤ肌 #透明感 #ナイトケア #韓国コスメ",
-          "timestamp": "2024-12-08T09:30:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI004/",
-          "metrics": {
-            "likes": 2341,
-            "comments": 67,
-            "saves": 234,
-            "shares": 23,
-            "reach": 38000,
-            "impressions": 52000
-          },
-          "analysis": {
-            "content_type": "product_model",
-            "vision": {
-              "content_type": "product_model",
-              "subject_type": "person_with_product",
-              "product_visibility": "held_by_model",
-              "product_count": 1,
-              "human_presence": true,
-              "face_visible": true,
-              "person_count": 1,
-              "composition_style": "minimal",
-              "background": "solid_color",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "blue",
-                "white"
-              ],
-              "lighting": "studio_soft",
-              "mood": "clean_luxurious",
-              "production_quality": "professional",
-              "image_file": "4__제품_및_모델샷.jpg"
-            },
-            "caption": {
-              "caption_length": 90,
-              "hashtag_count": 6,
-              "hashtags": [
-                "#LANEIGE",
-                "#ウォータースリーピングマスク",
-                "#うるツヤ肌",
-                "#透明感",
-                "#ナイトケア",
-                "#韓国コスメ"
-              ],
-              "emoji_count": 2,
-              "cta_present": false,
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "aspirational"
-            },
-            "comments": {
-              "total_comments": 5,
-              "sentiment_score": 0.2,
-              "positive_ratio": 0.2,
-              "neutral_ratio": 0.8,
-              "negative_ratio": 0.0,
-              "top_topics": [
-                "skin"
-              ],
-              "purchase_intent_count": 0,
-              "questions_count": 2
-            },
-            "engagement_rate": 7.01,
-            "conversion_score": 1.7
-          }
-        },
-        {
-          "id": "17895695668004555",
-          "media_type": "IMAGE",
-          "local_file": "5__제품없는_모델샷.jpg",
-          "caption": "毎晩のスキンケアルーティン🌙\n\n最後の仕上げにスリーピングマスク。\n翌朝、触りたくなる肌へ。\n\n#LANEIGE #スキンケアルーティン #ナイトルーティン #素肌ケア #もちもち肌",
-          "timestamp": "2024-12-05T20:00:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI005/",
-          "metrics": {
-            "likes": 1876,
-            "comments": 45,
-            "saves": 156,
-            "shares": 18,
-            "reach": 29000,
-            "impressions": 41000
-          },
-          "analysis": {
-            "content_type": "model_only",
-            "vision": {
-              "content_type": "model_only",
-              "subject_type": "person_only",
-              "product_visibility": "not_visible",
-              "product_count": 0,
-              "human_presence": true,
-              "face_visible": true,
-              "person_count": 1,
-              "composition_style": "minimal",
-              "background": "solid_white",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "peach",
-                "white"
-              ],
-              "lighting": "studio_soft",
-              "mood": "clean_luxurious",
-              "production_quality": "professional",
-              "image_file": "5__제품없는_모델샷.jpg"
-            },
-            "caption": {
-              "caption_length": 51,
-              "hashtag_count": 5,
-              "hashtags": [
-                "#LANEIGE",
-                "#スキンケアルーティン",
-                "#ナイトルーティン",
-                "#素肌ケア",
-                "#もちもち肌"
-              ],
-              "emoji_count": 1,
-              "cta_present": false,
-              "cta_type": "none",
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "aspirational"
-            },
-            "comments": {
-              "total_comments": 4,
-              "sentiment_score": 0.25,
-              "positive_ratio": 0.25,
-              "neutral_ratio": 0.75,
-              "negative_ratio": 0.0,
-              "top_topics": [
-                "skin"
-              ],
-              "purchase_intent_count": 0,
-              "questions_count": 2
-            },
-            "engagement_rate": 7.22,
-            "conversion_score": 1.5
-          }
-        },
-        {
-          "id": "17895695668004556",
-          "media_type": "IMAGE",
-          "local_file": "6__제품_모델_단체샷.jpg",
-          "caption": "みんなで選ぶスリーピングマスク✨\n\nそれぞれの肌悩みに合わせて🩷💙💚\nあなたの肌にぴったりの一つを見つけて。\n\n#LANEIGE #スリーピングマスク #肌悩み別 #スキンケア #みんなで美肌",
-          "timestamp": "2024-12-02T12:00:00+0000",
-          "permalink": "https://www.instagram.com/p/DDfGhI006/",
-          "metrics": {
-            "likes": 1987,
-            "comments": 52,
-            "saves": 178,
-            "shares": 21,
-            "reach": 32000,
-            "impressions": 45000
-          },
-          "analysis": {
-            "content_type": "product_models_group",
-            "vision": {
-              "content_type": "product_models_group",
-              "subject_type": "people_with_products",
-              "product_visibility": "held_by_model",
-              "product_count": 3,
-              "human_presence": true,
-              "face_visible": true,
-              "person_count": 3,
-              "composition_style": "moderate",
-              "background": "solid_white",
-              "text_overlay_percentage": 0,
-              "dominant_colors": [
-                "white",
-                "pink"
-              ],
-              "lighting": "studio_bright",
-              "mood": "inclusive_joyful",
-              "production_quality": "professional",
-              "image_file": "6__제품_모델_단체샷.jpg"
-            },
-            "caption": {
-              "caption_length": 67,
-              "hashtag_count": 5,
-              "hashtags": [
-                "LANEIGE",
-                "スリーピングマスク",
-                "肌悩み別",
-                "スキンケア",
-                "みんなで美肌"
-              ],
-              "emoji_count": 5,
-              "cta_present": true,
-              "cta_type": "purchase",
-              "mention_count": 0,
-              "mentions": [],
-              "language": "ja",
-              "tone": "promotional"
-            },
-            "comments": {
-              "total_comments": 5,
-              "sentiment_score": 0.4,
-              "positive_ratio": 0.4,
-              "neutral_ratio": 0.6,
-              "negative_ratio": 0.0,
-              "top_topics": [
-                "skin"
-              ],
-              "purchase_intent_count": 0,
-              "questions_count": 0
-            },
-            "engagement_rate": 6.99,
-            "conversion_score": 1.6
-          }
-        }
-      ],
-      "insights": {
-        "account": "laneige_jp",
-        "total_posts_analyzed": 6,
-        "avg_engagement_rate": 8.72,
-        "engagement_by_content_type": {
-          "product_group": 10.22,
-          "product_texture": 10.65,
-          "product_model": 7.01,
-          "model_only": 7.22,
-          "product_models_group": 6.99
-        },
-        "top_performing_type": {
-          "type": "product_texture",
-          "label": "제품 질감샷",
-          "avg_engagement": 10.65
-        },
-        "bottom_performing_type": {
-          "type": "product_models_group",
-          "label": "제품 모델 단체샷",
-          "avg_engagement": 6.99
-        },
-        "content_preference": "product_focused",
-        "preference_strength": 3.36,
-        "recommendation": "제품 중심 콘텐츠 권장. 제품 질감샷 형식이 가장 효과적 (평균 10.65% engagement)"
-      }
-    },
     "laneigethailand": {
       "account": {
         "username": "laneigethailand",
@@ -505,7 +37,7 @@
               "text_overlay_percentage": 0,
               "dominant_colors": [
                 "blue",
-                "white"
+                "peach"
               ],
               "lighting": "studio_soft",
               "mood": "clean_luxurious",
@@ -532,20 +64,20 @@
             },
             "comments": {
               "total_comments": 10,
-              "sentiment_score": 0.85,
-              "positive_ratio": 0.8,
-              "neutral_ratio": 0.2,
+              "sentiment_score": 0.3,
+              "positive_ratio": 0.3,
+              "neutral_ratio": 0.7,
               "negative_ratio": 0.0,
               "top_topics": [
-                "skin appearance",
-                "product purchase",
-                "usage instructions"
+                "purchase_intent",
+                "skin",
+                "price"
               ],
-              "purchase_intent_count": 3,
-              "questions_count": 5
+              "purchase_intent_count": 4,
+              "questions_count": 4
             },
             "engagement_rate": 10.5,
-            "conversion_score": 5.8
+            "conversion_score": 6.1
           }
         },
         {
@@ -577,8 +109,8 @@
               "background": "solid_white",
               "text_overlay_percentage": 0,
               "dominant_colors": [
-                "beige",
-                "white"
+                "white",
+                "peach"
               ],
               "lighting": "studio_soft",
               "mood": "clean_luxurious",
@@ -586,7 +118,7 @@
               "image_file": "5__제품없는_모델샷.jpg"
             },
             "caption": {
-              "caption_length": 95,
+              "caption_length": 89,
               "hashtag_count": 5,
               "hashtags": [
                 "LANEIGE",
@@ -601,23 +133,24 @@
               "mention_count": 0,
               "mentions": [],
               "language": "th",
-              "tone": "promotional"
+              "tone": "informative"
             },
             "comments": {
               "total_comments": 8,
-              "sentiment_score": 0.75,
+              "sentiment_score": 0.85,
               "positive_ratio": 0.75,
               "neutral_ratio": 0.25,
               "negative_ratio": 0.0,
               "top_topics": [
-                "skin",
-                "purchase_intent"
+                "skin_texture",
+                "beauty_results",
+                "product_inquiry"
               ],
-              "purchase_intent_count": 1,
-              "questions_count": 2
+              "purchase_intent_count": 2,
+              "questions_count": 4
             },
             "engagement_rate": 9.8,
-            "conversion_score": 4.7
+            "conversion_score": 5.1
           }
         },
         {
@@ -649,8 +182,8 @@
               "background": "solid_color",
               "text_overlay_percentage": 0,
               "dominant_colors": [
-                "white",
-                "pink"
+                "pink",
+                "blue"
               ],
               "lighting": "studio_bright",
               "mood": "inclusive_joyful",
@@ -658,7 +191,7 @@
               "image_file": "6__제품_모델_단체샷.jpg"
             },
             "caption": {
-              "caption_length": 147,
+              "caption_length": 157,
               "hashtag_count": 4,
               "hashtags": [
                 "LANEIGE",
@@ -676,19 +209,20 @@
             },
             "comments": {
               "total_comments": 10,
-              "sentiment_score": 0.5,
-              "positive_ratio": 0.5,
-              "neutral_ratio": 0.4,
-              "negative_ratio": 0.1,
+              "sentiment_score": 0.85,
+              "positive_ratio": 0.8,
+              "neutral_ratio": 0.2,
+              "negative_ratio": 0.0,
               "top_topics": [
-                "purchase_intent",
-                "skin"
+                "color variety",
+                "product sets",
+                "skin compatibility"
               ],
-              "purchase_intent_count": 3,
-              "questions_count": 1
+              "purchase_intent_count": 4,
+              "questions_count": 2
             },
             "engagement_rate": 10.44,
-            "conversion_score": 5.9
+            "conversion_score": 6.2
           }
         },
         {
@@ -729,7 +263,7 @@
               "image_file": "2__제품_단독샷.jpg"
             },
             "caption": {
-              "caption_length": 76,
+              "caption_length": 77,
               "hashtag_count": 4,
               "hashtags": [
                 "LANEIGE",
@@ -747,14 +281,14 @@
             },
             "comments": {
               "total_comments": 5,
-              "sentiment_score": 0.7,
+              "sentiment_score": 0.4,
               "positive_ratio": 0.4,
               "neutral_ratio": 0.6,
               "negative_ratio": 0.0,
               "top_topics": [
                 "price",
-                "product_quality",
-                "availability"
+                "purchase_intent",
+                "scent"
               ],
               "purchase_intent_count": 1,
               "questions_count": 3
@@ -801,17 +335,18 @@
               "image_file": "3__제품_질감샷.jpg"
             },
             "caption": {
-              "caption_length": 143,
+              "caption_length": 107,
               "hashtag_count": 5,
               "hashtags": [
-                "#LANEIGE",
-                "#Texture",
-                "#GelMask",
-                "#Hydration",
-                "#เน"
+                "LANEIGE",
+                "Texture",
+                "GelMask",
+                "Hydration",
+                "เนื้อสัมผัส"
               ],
               "emoji_count": 1,
               "cta_present": false,
+              "cta_type": "none",
               "mention_count": 0,
               "mentions": [],
               "language": "th",
@@ -819,18 +354,20 @@
             },
             "comments": {
               "total_comments": 5,
-              "sentiment_score": 0.6,
-              "positive_ratio": 0.6,
+              "sentiment_score": 0.85,
+              "positive_ratio": 0.8,
               "neutral_ratio": 0.2,
-              "negative_ratio": 0.2,
+              "negative_ratio": 0.0,
               "top_topics": [
-                "texture"
+                "texture",
+                "gel_formula",
+                "non_greasy"
               ],
-              "purchase_intent_count": 0,
+              "purchase_intent_count": 2,
               "questions_count": 2
             },
             "engagement_rate": 8.5,
-            "conversion_score": 3.2
+            "conversion_score": 4.4
           }
         },
         {
@@ -859,44 +396,43 @@
               "face_visible": false,
               "person_count": 0,
               "composition_style": "minimal",
-              "background": "solid_white",
+              "background": "gradient",
               "text_overlay_percentage": 0,
               "dominant_colors": [
                 "pink",
                 "blue"
               ],
-              "lighting": "studio_bright",
+              "lighting": "studio_soft",
               "mood": "clean_luxurious",
               "production_quality": "professional",
               "image_file": "1__제품_단체샷.jpg"
             },
             "caption": {
-              "caption_length": 87,
+              "caption_length": 115,
               "hashtag_count": 4,
               "hashtags": [
-                "LANEIGE",
-                "SleepingMask",
-                "3Colors",
-                "ครบทุกสูตร"
+                "#LANEIGE",
+                "#SleepingMask",
+                "#3Colors",
+                "#ครบท"
               ],
-              "emoji_count": 3,
+              "emoji_count": 1,
               "cta_present": false,
-              "cta_type": "none",
               "mention_count": 0,
               "mentions": [],
               "language": "th",
-              "tone": "promotional"
+              "tone": "informative"
             },
             "comments": {
               "total_comments": 5,
-              "sentiment_score": 0.85,
+              "sentiment_score": 0.9,
               "positive_ratio": 0.8,
               "neutral_ratio": 0.2,
               "negative_ratio": 0.0,
               "top_topics": [
                 "color",
-                "product size",
-                "purchase location"
+                "product_size",
+                "purchase_location"
               ],
               "purchase_intent_count": 2,
               "questions_count": 2
@@ -971,13 +507,13 @@
                 "pink",
                 "blue"
               ],
-              "lighting": "studio_bright",
+              "lighting": "studio_soft",
               "mood": "clean_luxurious",
               "production_quality": "professional",
               "image_file": "1__제품_단체샷.jpg"
             },
             "caption": {
-              "caption_length": 287,
+              "caption_length": 263,
               "hashtag_count": 6,
               "hashtags": [
                 "LANEIGE",
@@ -998,19 +534,19 @@
             "comments": {
               "total_comments": 10,
               "sentiment_score": 0.85,
-              "positive_ratio": 0.6,
-              "neutral_ratio": 0.4,
+              "positive_ratio": 0.7,
+              "neutral_ratio": 0.3,
               "negative_ratio": 0.0,
               "top_topics": [
                 "product variants",
                 "skin types",
-                "availability"
+                "purchasing/availability"
               ],
-              "purchase_intent_count": 2,
+              "purchase_intent_count": 3,
               "questions_count": 4
             },
             "engagement_rate": 9.71,
-            "conversion_score": 5.3
+            "conversion_score": 5.6
           }
         },
         {
@@ -1040,7 +576,7 @@
               "person_count": 0,
               "composition_style": "minimal",
               "background": "gradient",
-              "text_overlay_percentage": 15,
+              "text_overlay_percentage": 0,
               "dominant_colors": [
                 "blue",
                 "white"
@@ -1051,7 +587,7 @@
               "image_file": "3__제품_질감샷.jpg"
             },
             "caption": {
-              "caption_length": 263,
+              "caption_length": 238,
               "hashtag_count": 6,
               "hashtags": [
                 "LANEIGE",
@@ -1061,7 +597,7 @@
                 "GelCream",
                 "SkincareTexture"
               ],
-              "emoji_count": 8,
+              "emoji_count": 7,
               "cta_present": true,
               "cta_type": "swipe",
               "mention_count": 0,
@@ -1071,20 +607,20 @@
             },
             "comments": {
               "total_comments": 9,
-              "sentiment_score": 0.83,
-              "positive_ratio": 0.67,
-              "neutral_ratio": 0.33,
+              "sentiment_score": 0.78,
+              "positive_ratio": 0.56,
+              "neutral_ratio": 0.44,
               "negative_ratio": 0.0,
               "top_topics": [
                 "texture",
                 "skin_compatibility",
-                "product_performance"
+                "repurchase"
               ],
-              "purchase_intent_count": 3,
-              "questions_count": 3
+              "purchase_intent_count": 2,
+              "questions_count": 4
             },
             "engagement_rate": 10.62,
-            "conversion_score": 5.7
+            "conversion_score": 5.4
           }
         },
         {
@@ -1113,7 +649,7 @@
               "face_visible": true,
               "person_count": 1,
               "composition_style": "minimal",
-              "background": "solid_color",
+              "background": "solid_white",
               "text_overlay_percentage": 0,
               "dominant_colors": [
                 "blue",
@@ -1125,7 +661,7 @@
               "image_file": "4__제품_및_모델샷.jpg"
             },
             "caption": {
-              "caption_length": 76,
+              "caption_length": 82,
               "hashtag_count": 5,
               "hashtags": [
                 "LANEIGE",
@@ -1144,13 +680,14 @@
             },
             "comments": {
               "total_comments": 6,
-              "sentiment_score": 0.33,
-              "positive_ratio": 0.33,
-              "neutral_ratio": 0.67,
+              "sentiment_score": 0.83,
+              "positive_ratio": 0.67,
+              "neutral_ratio": 0.33,
               "negative_ratio": 0.0,
               "top_topics": [
-                "skin",
-                "purchase_intent"
+                "skin glow",
+                "product effectiveness",
+                "purchasing"
               ],
               "purchase_intent_count": 1,
               "questions_count": 2
@@ -1191,45 +728,43 @@
                 "blue",
                 "white"
               ],
-              "lighting": "studio_bright",
+              "lighting": "studio_soft",
               "mood": "clean_luxurious",
               "production_quality": "professional",
               "image_file": "2__제품_단독샷.jpg"
             },
             "caption": {
-              "caption_length": 127,
+              "caption_length": 182,
               "hashtag_count": 5,
               "hashtags": [
-                "LANEIGE",
-                "WaterSleepingMask",
-                "NightCare",
-                "HydrationBoost",
-                "SephoraSG"
+                "#LANEIGE",
+                "#WaterSleepingMask",
+                "#NightCare",
+                "#HydrationBoost",
+                "#SephoraSG"
               ],
               "emoji_count": 4,
-              "cta_present": true,
-              "cta_type": "purchase",
+              "cta_present": false,
               "mention_count": 0,
               "mentions": [],
               "language": "en",
-              "tone": "promotional"
+              "tone": "informative"
             },
             "comments": {
               "total_comments": 5,
-              "sentiment_score": 0.8,
-              "positive_ratio": 0.4,
-              "neutral_ratio": 0.6,
+              "sentiment_score": 0.2,
+              "positive_ratio": 0.2,
+              "neutral_ratio": 0.8,
               "negative_ratio": 0.0,
               "top_topics": [
-                "availability",
-                "product_praise",
-                "pricing"
+                "purchase_intent",
+                "price"
               ],
-              "purchase_intent_count": 1,
+              "purchase_intent_count": 2,
               "questions_count": 2
             },
             "engagement_rate": 8.67,
-            "conversion_score": 3.7
+            "conversion_score": 4.3
           }
         },
         {
@@ -1262,7 +797,7 @@
               "text_overlay_percentage": 0,
               "dominant_colors": [
                 "white",
-                "pink"
+                "beige"
               ],
               "lighting": "studio_soft",
               "mood": "clean_luxurious",
@@ -1270,7 +805,7 @@
               "image_file": "5__제품없는_모델샷.jpg"
             },
             "caption": {
-              "caption_length": 78,
+              "caption_length": 72,
               "hashtag_count": 5,
               "hashtags": [
                 "LANEIGE",
@@ -1329,11 +864,11 @@
               "face_visible": true,
               "person_count": 3,
               "composition_style": "moderate",
-              "background": "gradient",
+              "background": "solid_white",
               "text_overlay_percentage": 0,
               "dominant_colors": [
-                "pink",
-                "blue"
+                "white",
+                "pink"
               ],
               "lighting": "studio_bright",
               "mood": "inclusive_joyful",
@@ -1341,7 +876,7 @@
               "image_file": "6__제품_모델_단체샷.jpg"
             },
             "caption": {
-              "caption_length": 104,
+              "caption_length": 107,
               "hashtag_count": 6,
               "hashtags": [
                 "LANEIGE",
@@ -1403,17 +938,10 @@
   },
   "comparison": {
     "accounts_analyzed": [
-      "laneige_jp",
       "laneigethailand",
       "laneigesg"
     ],
     "comparisons": [
-      {
-        "account": "laneige_jp",
-        "preference": "product_focused",
-        "top_content": "제품 질감샷",
-        "avg_engagement": 8.72
-      },
       {
         "account": "laneigethailand",
         "preference": "human_focused",
@@ -1428,7 +956,7 @@
       }
     ],
     "cross_market_recommendations": [
-      "제품 중심 시장 (laneige_jp, laneigesg): 제품 히어로샷, 텍스처 강조 콘텐츠 권장",
+      "제품 중심 시장 (laneigesg): 제품 히어로샷, 텍스처 강조 콘텐츠 권장",
       "인물 중심 시장 (laneigethailand): 모델 포함, 사용 씬 콘텐츠 권장"
     ]
   }
